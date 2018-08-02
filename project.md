@@ -1,9 +1,9 @@
 # Introduction to FCC Ottawa Group Project
 
-## The Project
+## The project
 **We are creating a website for the freeCodeCamp Ottawa meetup.** This allows us to combine our powers, given our varying levels of experience and familiarity with programming languages, frameworks, libraries and other technologies. 
 
-## Website Content
+## Website content
 The website will be a dynamic, multi-page site that centres around our meetup group. While there are multiple possibilities for what we can include, at a minimum the site will consist of: 
 * Landing page with navigation bar
 * About Us page, with information about our meetup, our vision, and projects
