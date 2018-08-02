@@ -13,7 +13,7 @@ The project plans are displayed in the 'Projects' tab of this repository:
 # How to Contribute
 See what needs to be done within the Projects tab, and what is currently in progress. Consider what might be best task to follow on from those already completed, or what your particular strengths might be.
 
-Fork the repository to your account and create a new branch for your contributions. 
+Clone the repository to your account and create a new branch for your contributions. 
 Commit the changes and push to GitHub. Create a pull request to submit changes for review. 
 
 # Pull Requests & Merging 
