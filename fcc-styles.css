@@ -1,0 +1,148 @@
+html {
+  box-sizing: border-box;
+  font-family: Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+nav {
+  background-color: #006400;
+  color: #fff;
+  font-family: "Courier New", monospace;
+  font-size: 1.3em;
+  padding: 2px;
+  margin: 0;
+}
+
+nav li,
+a {
+  list-style-type: none;
+  display: inline;
+  text-decoration: none;
+  color: #fff;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+.intro {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.intro a,
+h1 {
+  color: #006400;
+}
+
+.intro h1 {
+  font-size: 4em;
+  font-family: "Courier New", monospace;
+}
+
+.ottawa {
+  color: #64a064;
+}
+
+.intro p {
+  font-size: 1.5em;
+  line-height: 1.5em;
+}
+
+.schedule h3 {
+  color: #006400;
+  font-size: 1.5em;
+}
+
+.schedule {
+  text-align: center;
+  border: solid #492c14 3px;
+  border-radius: 5px;
+  width: 450px;
+  margin: 0 auto;
+  padding-bottom: 15px;
+  background-color: #d2f4e0;
+}
+
+.schedule p {
+  line-height: 1.5em;
+  font-size: 1.3em;
+}
+
+.fb-link {
+  display: flex;
+  justify-content: center;
+  margin: 15px 0 5px 0;
+  font-size: 1.3em;
+}
+
+.fb-link a {
+  color: #006400;
+}
+
+footer {
+  background: #006400;
+  color: #fff;
+  font-size: 0.8em;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+}
+
+/* MEDIA QUERIES */
+
+@media (max-width: 1000px) {
+  .intro h1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .intro {
+    width: 80%;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 500px) {
+  nav {
+    font-size: 0.8em;
+  }
+
+  nav ul {
+    padding-left: 0;
+    justify-content: space-around;
+  }
+
+  .intro {
+    font-size: 0.8em;
+    justify-content: center;
+    padding: 5px 0px;
+    margin: 0 auto;
+    width: 80%;
+  }
+  .intro h1 {
+    font-size: 2.5em;
+  }
+
+  .schedule {
+    text-align: center;
+    font-size: 0.9em;
+    width: auto;
+    border: none;
+    padding: 15px;
+    margin: 0 auto;
+  }
+
+  .fb-link {
+    font-size: 0.9em;
+    margin: 5px auto;
+  }
+  footer {
+    width: auto;
+  }
+}
