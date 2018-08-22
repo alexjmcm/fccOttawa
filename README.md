@@ -2,7 +2,7 @@
 
 ## Project overview 
 This is a collaborative project between the members of the freeCodeCamp Ottawa meetup. 
-We are creating a freeCodeCamp Ottawa website. The website will contain information about our group, links to resources and tutorials, an 'about' section, and a forum. 
+We are building our very own freeCodeCamp Ottawa website from the ground up. The website will contain information about our group, original and links to existing resources, an 'about us' section, and additional features as we go. 
 
 ## Getting started
 As a collaborator, you are free to work on any component of the website. 
