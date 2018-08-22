@@ -7,7 +7,7 @@ We are building our very own freeCodeCamp Ottawa website from the ground up. The
 ## Getting started
 As a collaborator, you are free to work on any component of the website. 
 The project plans are displayed in the 'Projects' tab of this repository. 
-- View the items in the _'To Do' list_ to see what needs to be done 
+- View the items in the _'To Do'_ list to see what needs to be done 
 - Move any items on which you're working across into the _'In Progress'_ tab
 - The task will be moved to _'Done'_ once the code is merged into the master branch. 
 
