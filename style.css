@@ -1,0 +1,11 @@
+.parent{
+	color: green;
+	font-size: 40px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	width: auto;
+	height:750px;
+	background-color: lightgreen;
+}
